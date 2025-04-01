@@ -1,5 +1,9 @@
 function Home() {
-    return <h1>Vercel Test</h1>
+  return <h1>Vercel Test</h1>;
 }
 
-export default Home
+function teste() {
+  console.log("teste prettier");
+}
+
+export default Home;
